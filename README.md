@@ -52,6 +52,9 @@ Congratulations! You have successfully stumbled upon my secret little GitHub rep
             <li>implement an algorithm which determines the reading level (in US grades) of a piece of text</li>
             <li>create a program that encrypts text using the <a href=https://en.wikipedia.org/wiki/Caesar_cipher>Caesar cipher</a> (yes, that Caesar)</li>
             <li>create a program that encrypts text using the <a href=https://en.wikipedia.org/wiki/Substitution_cipher>substitution cipher</a></li>
+          </ul>
+      <td><img src=https://upload.wikimedia.org/wikipedia/commons/e/e5/Green_tick_pointed.svg /></td>
+      <td>
     </tr>
   </tbody>
 </table>
