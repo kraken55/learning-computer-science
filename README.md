@@ -44,7 +44,7 @@ Congratulations! You have successfully stumbled upon my secret little GitHub rep
       <td>This week, you'll learn about
           <ul>
             <li><b>Arrays</b>, a fundamental data structure which is used the group values of the same type</li>
-            <li><b>Functions</b>, a way to deconstruct complicated code into (somewhat) isolated chunks for clarity and convenience</li>
+            <li><b>Functions</b>, a way to deconstruct complicated code into (somewhat) independent chunks for clarity and convenience</li>
             <li><b>Command-line arguments</b>, which is a special way to provide input to your program
           </ul>
           In the problem sets, you'll
@@ -54,7 +54,8 @@ Congratulations! You have successfully stumbled upon my secret little GitHub rep
             <li>create a program that encrypts text using the <a href=https://en.wikipedia.org/wiki/Substitution_cipher>substitution cipher</a></li>
           </ul>
       <td><img src=https://upload.wikimedia.org/wikipedia/commons/e/e5/Green_tick_pointed.svg /></td>
-      <td>
     </tr>
   </tbody>
 </table>
+
+## Math
