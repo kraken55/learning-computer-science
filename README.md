@@ -7,6 +7,8 @@ Congratulations! You have successfully stumbled upon my secret little GitHub rep
   <img src="https://user-images.githubusercontent.com/50766670/172436379-6717456c-ed57-48fb-9643-abd67e11664c.jpg" width="500" height="281" align="center">
 </p>
 
+<p font-s>Effort required: ★★★★☆</p>
+
 <table>
   <thead>
     <tr>
@@ -21,8 +23,35 @@ Congratulations! You have successfully stumbled upon my secret little GitHub rep
     </tr>
     <tr>
       <td>Week 1</td>
-      <td>This week, you'll learn C, a real programming language used by actual programmers. It was invented in the 1970s by an American computer scientist, <a href=https://en.wikipedia.org/wiki/Dennis_Ritchie>Dennis Ritchie</a> (with contributions from <a href=https://en.wikipedia.org/wiki/Ken_Thompson>Ken Thompson</a>). It stood the test of time, and is still used in some fields (like microcontrollers, which are really fun). You'll learn about the basics of text-based programming (as opposed to Scratch's visual approach), variables and operations (which are pretty much like in math), conditionals (which help the program decide what to do in specific circumstances) and loops (which allow for executing the same command many times over, which - you'll see - is very convenient in certain situations). The course moves pretty fast, so I might suggest breaking up the two and a half hour long lecture into smaller portions. In the problem sets, you'll use loops to draw complex shapes in the command line, create a program to help cashiers calculate the fewest number of coins necessary to give back change, and implement the <a href=https://en.wikipedia.org/wiki/Luhn_algorithm>Luhn algorithm</a> which is used to check the validity of credit card numbers.</td>
+      <td>This week, you'll learn C, a real programming language used by actual programmers. It was invented in the 1970s by an American computer scientist, <a href=https://en.wikipedia.org/wiki/Dennis_Ritchie>Dennis Ritchie</a> (with contributions from <a href=https://en.wikipedia.org/wiki/Ken_Thompson>Ken Thompson</a>). It stood the test of time, and is still used in some fields (like microcontrollers, which are really fun). 
+        You'll learn about
+        <ul>
+          <li>The basics of <b>text-based programming</b>, as opposed to Scratch's visual approach</li>
+          <li><b>Variables and mathematical operations</b> (which behave almost like in math)</li>
+          <li><b>Conditional statements</b>, which help your program decide what to do in specific circumstances</li>
+          <li><b>Loops</b>, which allow for executing the same command(s) many times over, which - you'll see - is very convenient in some cases</li>
+        </ul>
+        In the problem sets, you'll
+        <ul>
+          <li>Use loops to "draw" complex shapes in the command line using text</li>
+          <li>create a program to calculate the fewest number of coins necessary to give back change</li>
+          <li>implement the Luhn algorithm, which is used to check the validity of credit card numbers
+        </ul>
       <td><img src=https://upload.wikimedia.org/wikipedia/commons/e/e5/Green_tick_pointed.svg /></td>
+    </tr>
+    <tr>
+      <td>Week 2</td>
+      <td>This week, you'll learn about
+          <ul>
+            <li><b>Arrays</b>, a fundamental data structure which is used the group values of the same type</li>
+            <li><b>Functions</b>, a way to deconstruct complicated code into (somewhat) isolated chunks for clarity and convenience</li>
+            <li><b>Command-line arguments</b>, which is a special way to provide input to your program
+          </ul>
+          In the problem sets, you'll
+          <ul>
+            <li>implement an algorithm which determines the reading level (in US grades) of a piece of text</li>
+            <li>create a program that encrypts text using the <a href=https://en.wikipedia.org/wiki/Caesar_cipher>Caesar cipher</a> (yes, that Caesar)</li>
+            <li>create a program that encrypts text using the <a href=https://en.wikipedia.org/wiki/Substitution_cipher>substitution cipher</a></li>
     </tr>
   </tbody>
 </table>
