@@ -1,2 +1,2 @@
 # learning-computer-science
-Github repo to track my personal journey of learning computer science and programming
+Congratulations! You have successfully stumbled upon my secret little GitHub repo which I created for the sole purpose of keeping track of my learning journey. My name is kraken55, and I started learning computer science and programming a few weeks ago. I want to be able to write complex, actually useful software, and eventually, I would like to get a job in this field.
