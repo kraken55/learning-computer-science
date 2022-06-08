@@ -7,6 +7,7 @@ Congratulations! You have successfully stumbled upon my secret little GitHub rep
   <img src="https://user-images.githubusercontent.com/50766670/172436379-6717456c-ed57-48fb-9643-abd67e11664c.jpg" width="500" height="281" align="center">
 </p>
 
+<p>TODO: write review when done</p>
 <p font-s>Effort required: ★★★★☆</p>
 
 <table>
